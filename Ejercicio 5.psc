@@ -1,9 +1,9 @@
-Algoritmo sin_titulo
+Algoritmo operaciones
 	Leer nu
 	leer nd
 	s<- nu+nd
 	r<- nu-nd
 	d<- nu/nd
 	m<- nu*nd
-	Escribir "Suma: " s " Resta: " r " División: " d " Multiplicación: " m 
+	Escribir "Suma: " s " Resta: " r " DivisiÃ³n: " d " MultiplicaciÃ³n: " m 
 FinAlgoritmo
