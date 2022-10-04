@@ -1,8 +1,8 @@
-Algoritmo Ejercicio_10
+Algoritmo Compra
 	Escribir "Escriba el total de su compra"
-	Leer TotalC
-	Descuento<-(TotalC)* 0.15
+	Leer Total
+	Descuento<-(Total)* 0.15
 	
-	Escribir "El total de su compra es:$" TotalC-Descuento
-	Escribir "El descuento que se le aplico a su compra es:" Descuento
+	Escribir "El total de su compra es:$" Total-Descuento
+	Escribir "El descuento que se le aplicó a su compra es:" Descuento
 FinAlgoritmo
