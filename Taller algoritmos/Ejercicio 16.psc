@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_16
+Algoritmo valores
 	Escribir "Digite el valor de la variable A:"
 	Leer A
 	Escribir "Digite el valor de la variable B:"
