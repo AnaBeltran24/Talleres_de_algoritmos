@@ -1,9 +1,9 @@
-Algoritmo ejercicio_14
+Algoritmo Raiz_cubica
 	Escribir "Digite un numero"
-	Leer numero_x
-	Raiz_cuadrada<-raiz(numero_x)
-	Raiz_cubica<-(numero_x)^1/3
-	Escribir "La raiz cuadrada del numero digitado es:" Raiz_cuadrada
-	Escribir "La raiz cubica del numero digitado es:" Raiz_cubica
+	Leer numerox
+	Raiz2<-raiz(numerox)
+	Raiz3<-(numerox)^1/3
+	Escribir "La raiz cuadrada es:" Raiz2
+	Escribir "La raiz cubica es:" Raiz3
 	
 FinAlgoritmo
