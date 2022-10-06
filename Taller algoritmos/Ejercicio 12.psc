@@ -1,11 +1,11 @@
-Algoritmo Ejercicio_12
-	Escribir "Digite su primer numero "
-	Leer N1
-	Escribir "Digite su segundo numero "
-	Leer N2
-	Distancia<-N2-N1 
-	valor_absoluto<- abs(Distancia)
-	Escribir "La distancia de los dos numero es:" Distancia
-	Escribir "El valor abosluto de la distancia es:" valor_absoluto
+Algoritmo Valor_abs
+	Escribir "Ingrese su primer numero "
+	Leer n1
+	Escribir "Ingrese su segundo numero "
+	Leer n2
+	D<-n2-n1 
+	valora<- abs(Distancia)
+	Escribir "La distancia entre los dos numeros es:" D
+	Escribir "El valor absoluto de la distancia es:" valora
 	
 FinAlgoritmo
