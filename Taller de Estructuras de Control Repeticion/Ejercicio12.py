@@ -8,8 +8,8 @@ while i<N:
     a=str(a)
     b=int(b)
     lista.append(b)
-r=max(lista,key=int)
-y=min(lista,key=int)
+r=max(lista)
+y=min(lista)
 if b==r:
     nombre=a
     print("el estudiante con la calificacion mas alta es:",nombre)
